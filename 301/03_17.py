@@ -50,6 +50,8 @@ for student in student_data:
     if student[1] > threshold:
         print(f"{student[0]} has exceeded the threshold grade of {threshold}, with a grade of {student[1]}")
 
+# End of Project 2.
+
 a = 15
 while a != 1: # This loop exits if and only if a == 1
     a = a // 2
