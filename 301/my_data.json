@@ -1,0 +1,13 @@
+{
+    "name": "Alex",
+    "age": 21,
+    "location": "Bridgewater",
+    "siblings": [
+        "Reagan",
+        "Milly"
+    ],
+    "courses": {
+        "COMP151": "Margaret Black",
+        "COMP250": "Sean Stanley"
+    }
+}
