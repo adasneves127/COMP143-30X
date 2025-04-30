@@ -8,6 +8,11 @@ my_dictionary['key'] = 'value'
 #   Examples: print(), sum(), len(), max(), min(), input()
 #   Functions have parenthesis after their name.
 
+# We can create a function using the following syntax:
+# def <function-name>():
+#    <function-body>
+
+# Example:
 def my_function():
     print("This is called from my_function! Now I added some extra text!")
 
