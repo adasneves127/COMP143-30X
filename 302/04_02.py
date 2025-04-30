@@ -20,6 +20,8 @@ def my_function():
 # my_function()
 # my_function()
 
+# We can add parameters to our function using variables inside our parenthesis.
+# These variables are to be defined when we "call" or "invoke" our function.
 def my_function_with_params(name, age):
     print(f"Nice to meet you, {name}! You are {age} years old!")
     test_list = [1,2,3,4,5]
